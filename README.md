@@ -6,7 +6,7 @@ Situation: E-Shop Pro is facing a significant challenge in retaining its custome
 Task: Create a cohort analysis tool that how different cohorts perform and behave over their entire lifecycle, allowing businesses to understand their customer retention, engagement, and revenue generation patterns.
 
 
-****Exploratory Data Analysis****
+# Exploratory Data Analysis
 
 **Bar chart of countries with the highest purchases**
 ![plot1](https://github.com/user-attachments/assets/5d6ea918-1158-438a-9b25-c3ff2c569641)
@@ -53,7 +53,7 @@ increase between August and November 2011, as well as the sudden drop in Decembe
 **Bar Chart of Top Countries by Revenue**
 ![plot6](https://github.com/user-attachments/assets/9d23ad65-6493-429f-83fc-79225c8084d0)
 
-****Cohort Analysis using Heatmap****
+# Cohort Analysis using Heatmap****
 
 ![plot5](https://github.com/user-attachments/assets/3ffbc59f-d247-4896-8ca1-9625e3dfddd0)
 The cohort table provides insight into retention rates, showing the percentage of customers who returned after 
@@ -70,7 +70,8 @@ making purchases as of November 2011.
 In contrast, the April 2011 cohort had the lowest retention rate, with only 8% of customers returning to buy from 
 the brand six months after their initial acquisition.
 
-**Recommendation:** The business team should investigate the marketing strategies used in December 2010, as they contributed to strong 
+# Recommendation
+The business team should investigate the marketing strategies used in December 2010, as they contributed to strong 
 customer loyalty, and consider replicating or adjusting those efforts to improve future retention rates. 
 
 Similarly, it’s essential to examine what tactics led to the low retention in April 2011, so the team can avoid those pitfalls 
