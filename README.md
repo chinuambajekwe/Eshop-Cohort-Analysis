@@ -3,7 +3,7 @@
 Situation: E-Shop Pro is facing a significant challenge in retaining its customers. While the company has been successful in acquiring new customers through marketing efforts and promotions, it has noticed a concerning trend of declining customer retention rates. This is a critical issue in the highly competitive e-commerce industry, where customer loyalty and repeat business are paramount.
 
 
-Task: Create a cohort analysis tool that shows how different cohorts perform and behave over their entire lifecycle, allowing businesses to understand their customer retention, engagement, and revenue generation patterns.
+Task: Create a cohort analysis tool that shows how different cohorts perform and behave over their entire lifecycle, allowing the business to understand their customer retention, engagement, and revenue generation patterns.
 
 
 # Exploratory Data Analysis
