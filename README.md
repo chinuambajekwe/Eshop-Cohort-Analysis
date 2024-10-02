@@ -53,7 +53,7 @@ increase between August and November 2011, as well as the sudden drop in Decembe
 **Bar Chart of Top Countries by Revenue**
 ![plot6](https://github.com/user-attachments/assets/9d23ad65-6493-429f-83fc-79225c8084d0)
 
-# Cohort Analysis using Heatmap****
+# Cohort Analysis using Heatmap
 
 ![plot5](https://github.com/user-attachments/assets/3ffbc59f-d247-4896-8ca1-9625e3dfddd0)
 The cohort table provides insight into retention rates, showing the percentage of customers who returned after 
