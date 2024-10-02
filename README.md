@@ -16,6 +16,10 @@ Task: Create a cohort analysis tool that shows how different cohorts perform and
 ![plot3](https://github.com/user-attachments/assets/ab08e772-e1cf-442e-b1ea-4f47e6f6146e)
 
 
+**Bar Chart of Top Countries by Revenue**
+![plot6](https://github.com/user-attachments/assets/9d23ad65-6493-429f-83fc-79225c8084d0)
+
+
 **Line Chart of Sales Trend**
 
 ![plot4](https://github.com/user-attachments/assets/00d9a7d4-e3d9-44f2-b07c-dde62e689345)
@@ -50,8 +54,6 @@ entire period. Further investigation is needed to understand the factors behind 
 increase between August and November 2011, as well as the sudden drop in December 2011.
 
 
-**Bar Chart of Top Countries by Revenue**
-![plot6](https://github.com/user-attachments/assets/9d23ad65-6493-429f-83fc-79225c8084d0)
 
 # Cohort Analysis using Heatmap
 
